@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+body{
+    color: white;
+    background-image: url(https://www.fcbarcelona.com/fcbarcelona/photo/2021/08/05/83b2408a-71fd-4fca-8a8c-d833bca5fbf2/ad-u-Messi.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.caja{
+    line-height: 2;
+    font-family: sans-serif;
+    text-align: start;
+    background-color: red;
+    width: 300px;
+    height: 300px;
+} 
+ul li{
+    line-height: 3;
+}
+ul{
+    margin-left: 300px;
+    list-style-image: url(https://gdb.voanews.com/022a0000-0aff-0242-f948-08dae3508509_w408_r1_s.jpg);
+}
+ul li:hover{
+    color: aqua;
+}
